@@ -1,5 +1,6 @@
 [![Paper](https://img.shields.io/badge/paper-arXiv%3AXXXX.YYYYY-B31B1B.svg)](https://arxiv.org/abs/XXXX.YYYYY)
-[![DOI](https://zenodo.org/badge/214220909.svg)](https://zenodo.org/badge/latestdoi/214220909)
+[![DOI](https://zenodo.org/badge/427276978.svg)](https://zenodo.org/badge/latestdoi/427276978)
+
 
 # Measuring post-quench entanglement entropy through density correlations
 
