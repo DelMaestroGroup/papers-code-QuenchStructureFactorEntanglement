@@ -3,30 +3,41 @@
 
 # Paper Title
 
-Author 1, Author 2, Author 3
+[Adrian Del Maestro](https://github.com/agdelma), [Hatem Barghathi](https://github.com/HatemBarghathi), and Bernd Rosenow
 
 [arXiv:XXXX.YYYYY](https://arxiv.org/abs/XXXX.YYYYY)
 
 ### Abstract
+Following  a sudden change of interactions in an integrable system of one-dimensional fermions, we analyze the dependence of the static structure factor on the observation time after the quantum quench. At small waiting times after the quench, we map the system to non-interacting bosons such that we are able to extract their occupation numbers from the Fourier transform of the density-density correlation function, and use these to compute a bosonic entropy from a diagonal ensemble. By comparing this bosonic entropy with the asymptotic steady state entanglement entropy per fermion computed with exact diagonalization we find excellent agreement.  
 Abstract Here
 
 ### Description
-This repository includes links, code, scripts, and data to generate the figures in a paper.
+This repository includes links, code, scripts, and data to perform the analysis and generate the figures described in the above paper. 
 
 ### Requirements
-The data in this project was generated via exact diagonalization.  Everything included in the [data](https://github.com/DelMaestroGroup/papers-code-template/tree/master/data) directory was generated via:
+The primary data set analyzed in this paper was generated via exact diagonalization.  There is a companion [paper](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.195101) and [repository](https://github.com/DelMaestroGroup/papers-code-EntanglementQuantumQuench) which provides complimentary detail of the ED and finite size scaling procedure employed here.  The analysis of the observation time dependence of the static structure factor is based the results in the [data](https://github.com/DelMaestroGroup/papers-code-QuenchStructureFactorEntanglement/tree/main/data) directory.
 
-* [Dependency Name](https://dependencelink)
+* [dgutils](https://github.com/DelMaestroGroup/dgutils)
 
 ### Support
-The creation of these materials was supported in part by the National Science Foundation under Award No. DMR-1553991.
+The creation of these materials was supported in part by the National Science Foundation under Award No. DMR-2041995
 
-[<img width="100px" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png">](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1553991)
+[<img width="100px" src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png">](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2041995&HistoricalAwards=false)
 
 ### Figures
 
-#### Figure 01: Figure Name
-<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/master/figures/figure01.svg" width="400px">
+#### Figure 01: Momentum Dependence of the Post-Quench Static Structure Factor
+<img src="https://github.com/DelMaestroGroup/papers-code-QuenchStructureFactorEntanglement/blob/master/figures/S_vs_q_n_13.svg" width="400px">
 
-This figure is relesed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+#### Figure 02: Waiting Time Dependence of the Post-Quench Static Structure Factor
+<img src="https://github.com/DelMaestroGroup/papers-code-QuenchStructureFactorEntanglement/blob/master/figures/nqt_vs_t_with_interp.svg" width="400px">
+
+#### Figure 03: Boson Occupation Numbers in the Small-Momentum Limit
+<img src="https://github.com/DelMaestroGroup/papers-code-QuenchStructureFactorEntanglement/blob/master/figures/nq_vs_V.svg" width="400px">
+
+#### Figure 04: Comparing the Fermionic and Bosonic Entropy Density
+<img src="https://github.com/DelMaestroGroup/papers-code-QuenchStructureFactorEntanglement/blob/master/figures/entropy_comparison.svg" width="400px">
+
+
+<!--This figure is relesed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.-->
 
