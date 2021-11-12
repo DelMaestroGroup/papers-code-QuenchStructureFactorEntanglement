@@ -1,7 +1,7 @@
 [![Paper](https://img.shields.io/badge/paper-arXiv%3AXXXX.YYYYY-B31B1B.svg)](https://arxiv.org/abs/XXXX.YYYYY)
 [![DOI](https://zenodo.org/badge/214220909.svg)](https://zenodo.org/badge/latestdoi/214220909)
 
-# Paper Title
+# Measuring post-quench entanglement entropy through density correlations
 
 [Adrian Del Maestro](https://github.com/agdelma), [Hatem Barghathi](https://github.com/HatemBarghathi), and Bernd Rosenow
 
@@ -27,16 +27,16 @@ The creation of these materials was supported in part by the National Science Fo
 ### Figures
 
 #### Figure 01: Momentum Dependence of the Post-Quench Static Structure Factor
-<img src="https://github.com/DelMaestroGroup/papers-code-QuenchStructureFactorEntanglement/blob/master/figures/S_vs_q_n_13.svg" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-QuenchStructureFactorEntanglement/blob/main/figures/S_vs_q_n_13.svg" width="400px">
 
 #### Figure 02: Waiting Time Dependence of the Post-Quench Static Structure Factor
-<img src="https://github.com/DelMaestroGroup/papers-code-QuenchStructureFactorEntanglement/blob/master/figures/nqt_vs_t_with_interp.svg" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-QuenchStructureFactorEntanglement/blob/main/figures/nqt_vs_t_with_interp.svg" width="400px">
 
 #### Figure 03: Boson Occupation Numbers in the Small-Momentum Limit
-<img src="https://github.com/DelMaestroGroup/papers-code-QuenchStructureFactorEntanglement/blob/master/figures/nq_vs_V.svg" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-QuenchStructureFactorEntanglement/blob/main/figures/nq_vs_V.svg" width="400px">
 
 #### Figure 04: Comparing the Fermionic and Bosonic Entropy Density
-<img src="https://github.com/DelMaestroGroup/papers-code-QuenchStructureFactorEntanglement/blob/master/figures/entropy_comparison.svg" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-QuenchStructureFactorEntanglement/blob/main/figures/entropy_comparison.svg" width="400px">
 
 
 <!--This figure is relesed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.-->
