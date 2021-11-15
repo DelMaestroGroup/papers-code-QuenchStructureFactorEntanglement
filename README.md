@@ -1,4 +1,4 @@
-[![Paper](https://img.shields.io/badge/paper-arXiv%3AXXXX.YYYYY-B31B1B.svg)](https://arxiv.org/abs/XXXX.YYYYY)
+[![Paper](https://img.shields.io/badge/paper-arXiv%32111.06755-B31B1B.svg)](https://arxiv.org/abs/2111.06755)
 [![DOI](https://zenodo.org/badge/427276978.svg)](https://zenodo.org/badge/latestdoi/427276978)
 
 
@@ -6,11 +6,10 @@
 
 [Adrian Del Maestro](https://github.com/agdelma), [Hatem Barghathi](https://github.com/HatemBarghathi), and Bernd Rosenow
 
-[arXiv:XXXX.YYYYY](https://arxiv.org/abs/XXXX.YYYYY)
+[arXiv:2111.06755](https://arxiv.org/abs/2111.06755)
 
 ### Abstract
 Following  a sudden change of interactions in an integrable system of one-dimensional fermions, we analyze the dependence of the static structure factor on the observation time after the quantum quench. At small waiting times after the quench, we map the system to non-interacting bosons such that we are able to extract their occupation numbers from the Fourier transform of the density-density correlation function, and use these to compute a bosonic entropy from a diagonal ensemble. By comparing this bosonic entropy with the asymptotic steady state entanglement entropy per fermion computed with exact diagonalization we find excellent agreement.  
-Abstract Here
 
 ### Description
 This repository includes links, code, scripts, and data to perform the analysis and generate the figures described in the above paper. 
